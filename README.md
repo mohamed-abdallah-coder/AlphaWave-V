@@ -16,3 +16,9 @@ Which country has top sales?
 Which are the top 5 profit-making product types on a yearly basis
 How is the product price varying with sales - Is there any increase in sales with the decrease in price at a day level
 What is the average delivery time across the counties - bar plot
+
+## Tech Stack
+Python: Pandas, NumPy, Matplotlib, Seaborn 
+Visualization & BI: Power BI
+
+
